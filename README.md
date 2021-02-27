@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Move it
+Project created during the event ***next level week*** by **RocketSeat**.
+
+The aim of this project was to introduct concepts of React and Next.js while developing a pomodoro app.
+
 
 ## Getting Started
 
